@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+// Simple storage to store and retrieve data
+
 pragma solidity >=0.6.0 <0.9.0;
 
 contract SimpleStorage {
